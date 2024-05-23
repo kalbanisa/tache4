@@ -1,0 +1,63 @@
+body {
+  padding-top: 50px;
+}
+
+form {
+  min-width: 500px;
+  width: 600px;
+  margin: auto;
+  text-align: center;
+  width: 500px;
+}
+.input {
+  width: 100%;
+}
+
+input {
+  display: block;
+  width: 96%;
+  border-right: 0px;
+  border-left: 0px;
+  border-top: 0px;
+  display: 1px solid;
+  padding: 10px;
+}
+input .email {
+  border-style: dotted dashed solid double;
+}
+.cariere {
+  color: orange;
+}
+.bakeli {
+  color: green;
+}
+.oublie a {
+  padding-left: 350px;
+  text-decoration: none;
+  color: green;
+}
+.oublie {
+  margin-top: 2px;
+}
+button {
+  padding: 12px;
+  border: 1px solid;
+  border-radius: 5px;
+  background-color: darkgreen;
+  color: aliceblue;
+  width: 100%;
+}
+img {
+  height: 1rem;
+  margin-right: 5px;
+}
+.connect {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  border: 1px solid;
+  width: 45%;
+  margin: auto;
+  border-radius: 5px;
+  justify-content: center;
+}
